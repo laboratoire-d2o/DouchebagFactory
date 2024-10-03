@@ -1,7 +1,7 @@
 Douchebag Factory - Privacy Policy
 ==============
 
-Last updated: September 10, 2024
+Last updated: October 3, 2024
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -30,7 +30,8 @@ For the purposes of this Privacy Policy:
 
 Data collected by the application
 ---------------------------------------
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (application configuration, exercise information) created by you (the user) is stored locally in your device only, and can be simply erased by clearing the app's data or uninstalling it. No analytics software is present in the app.
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (application configuration, exercise information) created by you (the user) is stored locally in your device only, and can be simply erased by clearing the app's data or uninstalling it.
+Google Analytics/Crashlytics is used to gather errors information and application usage information such as but not limited to (time spent on screen, users geographical location, users language, ...)
 
 Explanation of permissions requested in the app
 ---------------------------------------
@@ -39,11 +40,12 @@ Explanation of permissions requested in the app
 | :---: | --- |
 | android.permission.WRITE_EXTERNAL_STORAGE | Export your data at your request from the application |
 | android.permission.READ_EXTERNAL_STORAGE | Import your data at your request from the application |
+| android.permission.INTERNET | Google Analytics/Crashlytics |
 
 Security of Your Personal Data
 ------------------
 
-The security of Your Personal Data is important to Us, but remember that no method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+Your exercises information is stored locally in your device only un-encrypted. Remember that no method of electronic storage is 100% secure. We cannot guarantee its absolute security.
 
 Changes to this Privacy Policy
 ------------------------------
